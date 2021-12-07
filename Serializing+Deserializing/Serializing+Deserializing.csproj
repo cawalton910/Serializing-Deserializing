@@ -6,8 +6,4 @@
     <RootNamespace>Serializing_Deserializing</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="JsonBooks\" />
-  </ItemGroup>
-
 </Project>
